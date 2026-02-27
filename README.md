@@ -20,9 +20,7 @@ Website dibuat menggunakan HTML dan CSS, kemudian di-host menggunakan GitHub Pag
 
 Website dapat diakses melalui:
 
-👉 https://dedesyifasifriani.github.io/namarepositorykamu/
-
-*(Ganti namarepositorykamu sesuai nama repo kamu)*
+👉 https://dedesyifasifriani.github.io/agama/
 
 ---
 
