@@ -20,7 +20,7 @@ Website dibuat menggunakan HTML dan CSS, kemudian di-host menggunakan GitHub Pag
 
 Website dapat diakses melalui:
 
-👉 https://dedesyifasifriani.github.io/agama/
+👉 https://landingpageagamadedesyifa.lovestoblog.com/
 
 ---
 
